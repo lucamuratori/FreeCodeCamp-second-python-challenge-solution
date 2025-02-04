@@ -71,4 +71,4 @@ def add_time(start, duration, day=None):
     return new_time
 
 
-print(add_time('10:10 PM', '1:50', 'monDay')) # Returns: 6:10 PM
+print(add_time('10:10 PM', '1:50', 'monDay'))
